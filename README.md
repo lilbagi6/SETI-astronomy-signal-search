@@ -20,4 +20,10 @@ The work is inspired by the [SETI Institute's Kaggle competition](https://www.ka
 -  **Validation**: Stratified GroupK-Fold
 -  **Final Metric**: Accuracy / ROC AUC
 
+---
 
+##  Files
+
+- `seti-final-project.ipynb` — main notebook with training & evaluation
+- `README.md` — this file
+- `requirements.txt` — list of required libraries
