@@ -18,7 +18,7 @@ The work is inspired by the [SETI Institute's Kaggle competition](https://www.ka
 -  **Model**: CNN architecture (e.g. EfficientNetB2)
 -  **Preprocessing**: Normalization, channel stacking
 -  **Validation**: Stratified GroupK-Fold
--  **Final Metric**: Accuracy / ROC AUC
+-  **Final Metric**: ROC AUC
 
 ---
 
